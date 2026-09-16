@@ -1,3 +1,5 @@
+# User Stories
+
 ### Definitions
 - User: A person without an account and is not verified to be associated with Dev10
 - Member: A verified Dev10 associate or alumni with an active account
@@ -7,6 +9,7 @@
 
 ### User
 - I cannot view the map of where other members are located
+- I can request to have an account made
 
 ### Member
 - I want to add my location to the map so other people can see where I am located
